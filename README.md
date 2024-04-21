@@ -1,9 +1,8 @@
 # Zhuangfei, Hu
-Address: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, Panyu District, Guangzhou, Guangdong, China, 511442
-Phone: +86 15652663533	
-Email: huzf98@gmail.com
-**Research Interests**
-Algorithms and complexity; Quantum computing; Machine Learning
+**Address**: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, Panyu District, Guangzhou, Guangdong, China, 511442
+**Phone:** +86 15652663533	
+**Email:** huzf98@gmail.com
+**Research Interests:** Algorithms and complexity; Quantum computing; Machine Learning
 
 ## Education	
 - Department of Computer Science and Technology- Tsinghua University- Beijing, China	Aug 2016-June 2020

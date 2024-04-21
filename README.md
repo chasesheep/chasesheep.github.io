@@ -20,19 +20,22 @@ UW-China Uni Award-Tsinghua	(2019-2020)
 Outstanding Graduate Award in Department of Computer Science (2020)
 
 ## Research (work) Experience		                                                                                                                                                         
-**Quantum Computation Theories | Tsinghua University | RA	Apr 2018-Aug 2019 
-Advisor: Prof. Mingsheng Ying**
+**Quantum Computation Theories | Tsinghua University | RA	(Apr 2018-Aug 2019)**
+**Advisor: Prof. Mingsheng Ying**
 - Studied basic quantum computation theories and quantum algorithms
-**Recovery from Non-decomposable Distance Oracles | RA	May 2021-Feb 2023
-  Advisor: Assist. Prof. Hongyang Zhang & Prof. David P. Woodruff**
+  
+**Recovery from Non-decomposable Distance Oracles | RA	(May 2021-Feb 2023)**
+**Advisor: Assist. Prof. Hongyang Zhang & Prof. David P. Woodruff**
 - Studied previous literature on distance-recovery problems
 - Worked on constructing new recovery algorithms for non-decomposable distance metrics
-isQ Programming Language | RA	May 2023-July 2023
-Advisor: Dr. Shenggang Ying
+
+**isQ Programming Language | RA	(May 2023-July 2023)**
+**Advisor: Dr. Shenggang Ying**
 - Implemented quantum algorithm libraries for isQ programming language
 - Provided tests and feedback for isQ language design
-Quantum Diffusion Models for Image Generation | RA	July 2023-Present
-Advisor: Assist. Prof. Hongyang Zhang
+  
+**Quantum Diffusion Models for Image Generation | RA	(July 2023-Present)**
+**Advisor: Assist. Prof. Hongyang Zhang**
 - Worked on quantum analog of latent diffusion models 
 - Implemented quantum diffusion pipeline with the pennylane framework
 

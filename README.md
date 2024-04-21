@@ -1,4 +1,4 @@
-<img src="./profile.jpg" alt="Profile Picture" align="right" width="200">
+<img src="./profile.jpg" alt="Profile Picture" align="right" width="150">
 
 # Zhuangfei, Hu
 - Address: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, Panyu District, Guangzhou, Guangdong, China, 511442

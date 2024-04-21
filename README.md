@@ -3,7 +3,7 @@
 - Phone: +86 15652663533	
 - Email: huzf98@gmail.com
 - Research Interests: Algorithms and complexity; Quantum computing; Machine Learning
-- [Profile Picture](profile.jpg)
+  [Profile Picture](./profile.jpg)
 
 ## Education	
 - Department of Computer Science and Technology- Tsinghua University- Beijing, China (Aug 2016-June 2020)

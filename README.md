@@ -1,8 +1,7 @@
-# chasesheep.github.io
-**Zhuangfei, Hu**
-Address: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, 
-Panyu District, Guangzhou, Guangdong, China, 511442
-Phone: +86 15652663533	Email: huzf98@gmail.com
+# Zhuangfei, Hu
+Address: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, Panyu District, Guangzhou, Guangdong, China, 511442
+Phone: +86 15652663533	
+Email: huzf98@gmail.com
 **Research Interests**
 Algorithms and complexity; Quantum computing; Machine Learning
 
@@ -22,10 +21,11 @@ UW-China Uni Award-Tsinghua	2019-2020
 Outstanding Graduate Award in Department of Computer Science	2020
 
 ## Research (work) Experience		                                                                                                                                                         
-Quantum Computation Theories | Tsinghua University | RA	Apr 2018-Aug 2019 Advisor: Prof. Mingsheng Ying
+**Quantum Computation Theories | Tsinghua University | RA	Apr 2018-Aug 2019 
+Advisor: Prof. Mingsheng Ying**
 - Studied basic quantum computation theories and quantum algorithms
-Recovery from Non-decomposable Distance Oracles | RA	May 2021-Feb 2023
-Advisor: Assist. Prof. Hongyang Zhang & Prof. David P. Woodruff
+**Recovery from Non-decomposable Distance Oracles | RA	May 2021-Feb 2023
+  Advisor: Assist. Prof. Hongyang Zhang & Prof. David P. Woodruff**
 - Studied previous literature on distance-recovery problems
 - Worked on constructing new recovery algorithms for non-decomposable distance metrics
 isQ Programming Language | RA	May 2023-July 2023

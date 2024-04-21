@@ -11,13 +11,13 @@
 - David R. Cheriton School of Computer Science- University of Waterloo- Ontario, Canada	(Fall 2020-Feb 2022)
   - Master of Mathematics (dropout)
 - Related course grade:
-Calculus(1) (A); Linear Algebra(1) (A); Discrete Mathematics(1) (A-);  Calculus(2) (A); Linear Algebra(2) (A-); Probability and Statistics (A-); Numerical Analysis (A); Artificial Neural Networks (A-); Algorithm Design & Analysis (A); 
+   Calculus(1) (A); Linear Algebra(1) (A); Discrete Mathematics(1) (A-);  Calculus(2) (A); Linear Algebra(2) (A-); Probability and Statistics (A-); Numerical Analysis (A); Artificial Neural Networks (A-); Algorithm Design & Analysis (A); 
 - Awards & Scholarship:		
-Interdisciplinary Contest in Modeling (Problem D), Honorable Mention	(2018)
-Sports Excellence Scholarship	(2017-2018)
-Tsinghua Toyota Scholarship	(2018-2019)
-UW-China Uni Award-Tsinghua	(2019-2020)
-Outstanding Graduate Award in Department of Computer Science (2020)
+  - Interdisciplinary Contest in Modeling (Problem D), Honorable Mention	(2018)
+  - Sports Excellence Scholarship	(2017-2018)
+  - Tsinghua Toyota Scholarship	(2018-2019)
+  - UW-China Uni Award-Tsinghua	(2019-2020)
+  - Outstanding Graduate Award in Department of Computer Science (2020)
 
 ## Research (work) Experience		                                                                                                                                                         
 **Quantum Computation Theories | Tsinghua University | RA	(Apr 2018-Aug 2019)**

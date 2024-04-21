@@ -6,10 +6,10 @@
 
 ## Education	
 - Department of Computer Science and Technology- Tsinghua University- Beijing, China (Aug 2016-June 2020)
-B.E. in Computer Science (conferred), Overall GPA: 3.68/4.00, Top 20%.
+-   B.E. in Computer Science (conferred), Overall GPA: 3.68/4.00, Top 20%.
 - China 3+1 Exchange Program (Mathematics)- University of Waterloo- Ontario, Canada (Sep 2019-May 2020)
 - David R. Cheriton School of Computer Science- University of Waterloo- Ontario, Canada	(Fall 2020-Feb 2022)
-Master of Mathematics (dropout)
+-   Master of Mathematics (dropout)
 - Related course grade:
 Calculus(1) (A); Linear Algebra(1) (A); Discrete Mathematics(1) (A-);  Calculus(2) (A); Linear Algebra(2) (A-); Probability and Statistics (A-); Numerical Analysis (A); Artificial Neural Networks (A-); Algorithm Design & Analysis (A); 
 - Awards & Scholarship:		

@@ -1,23 +1,23 @@
 # Zhuangfei, Hu
-**Address**: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, Panyu District, Guangzhou, Guangdong, China, 511442
-**Phone:** +86 15652663533	
-**Email:** huzf98@gmail.com
-**Research Interests:** Algorithms and complexity; Quantum computing; Machine Learning
+- Address: Room 1406, Building B5, Wankeoubo, No.368 Xingnan Ave., Nancunzhen, Panyu District, Guangzhou, Guangdong, China, 511442
+- Phone: +86 15652663533	
+- Email: huzf98@gmail.com
+- Research Interests: Algorithms and complexity; Quantum computing; Machine Learning
 
 ## Education	
-- Department of Computer Science and Technology- Tsinghua University- Beijing, China	Aug 2016-June 2020
+- Department of Computer Science and Technology- Tsinghua University- Beijing, China (Aug 2016-June 2020)
 B.E. in Computer Science (conferred), Overall GPA: 3.68/4.00, Top 20%.
-- China 3+1 Exchange Program (Mathematics)- University of Waterloo- Ontario, Canada	Sep 2019-May 2020
-- David R. Cheriton School of Computer Science- University of Waterloo- Ontario, Canada	Fall 2020-Feb 2022
+- China 3+1 Exchange Program (Mathematics)- University of Waterloo- Ontario, Canada (Sep 2019-May 2020)
+- David R. Cheriton School of Computer Science- University of Waterloo- Ontario, Canada	(Fall 2020-Feb 2022)
 Master of Mathematics (dropout)
 - Related course grade:
 Calculus(1) (A); Linear Algebra(1) (A); Discrete Mathematics(1) (A-);  Calculus(2) (A); Linear Algebra(2) (A-); Probability and Statistics (A-); Numerical Analysis (A); Artificial Neural Networks (A-); Algorithm Design & Analysis (A); 
 - Awards & Scholarship:		
-Interdisciplinary Contest in Modeling (Problem D), Honorable Mention	2018
-Sports Excellence Scholarship	2017-2018
-Tsinghua Toyota Scholarship	2018-2019
-UW-China Uni Award-Tsinghua	2019-2020
-Outstanding Graduate Award in Department of Computer Science	2020
+Interdisciplinary Contest in Modeling (Problem D), Honorable Mention	(2018)
+Sports Excellence Scholarship	(2017-2018)
+Tsinghua Toyota Scholarship	(2018-2019)
+UW-China Uni Award-Tsinghua	(2019-2020)
+Outstanding Graduate Award in Department of Computer Science (2020)
 
 ## Research (work) Experience		                                                                                                                                                         
 **Quantum Computation Theories | Tsinghua University | RA	Apr 2018-Aug 2019 

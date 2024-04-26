@@ -51,3 +51,6 @@ Computer skills: C/C++, Python, LaTeX, Markdown, MATLAB
 Languages: Chinese Mandarin (Native), English (Fluent)
 TOEFL: Total 105 (Reading 30, Listening 27, Speaking 21, Writing 27)
 GRE: V.159 (83%), Q.170 (96%), W.4 (59%)
+
+## CV
+[Personal CV](Zhuangfei_Hu_CV.pdf)

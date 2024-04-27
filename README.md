@@ -39,7 +39,7 @@
 **Quantum Diffusion Models for Image Generation | RA	(July 2023-Present)**
 - **Advisor: Assist. Prof. Hongyang Zhang**
 - Worked on quantum analog of latent diffusion models 
-- Implemented quantum diffusion pipeline with the pennylane framework
+- Research goal: building quantum diffusion pipeline with the pennylane framework
 
 ## Publications                                                                                                                                                                                             
 Zhuangfei Hu, Xinda Li, David P. Woodruff, Hongyang Zhang, and Shufan Zhang. Recovery from Non-Decomposable Distance Oracles. In 14th Innovations in Theoretical Computer Science Conference (ITCS 2023).

@@ -44,7 +44,7 @@
 ## Publications                                                                                                                                                                                             
 Zhuangfei Hu, Xinda Li, David P. Woodruff, Hongyang Zhang, and Shufan Zhang. Recovery from Non-Decomposable Distance Oracles. In 14th Innovations in Theoretical Computer Science Conference (ITCS 2023).
 
-Hu, Z., Li, X., Woodruff, D.P., Zhang, H. and Zhang, S., 2023. Recovery from non-decomposable distance oracles. IEEE Transactions on Information Theory.
+Hu, Zhuangfei, Xinda Li, David P. Woodruff, Hongyang Zhang, and Shufan Zhang. "Recovery from non-decomposable distance oracles." IEEE Transactions on Information Theory (2023).
 
 ## Skills	
 Computer skills: C/C++, Python, LaTeX, Markdown, MATLAB  

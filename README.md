@@ -30,6 +30,7 @@
 - **Advisor: Assist. Prof. Hongyang Zhang & Prof. David P. Woodruff**
 - Studied previous literature on distance-recovery problems
 - Worked on constructing new recovery algorithms for non-decomposable distance metrics
+- Worked on possible applications for new encodings
 
 **isQ Programming Language | RA	(May 2023-July 2023)**
 - **Advisor: Dr. Shenggang Ying**

@@ -13,7 +13,7 @@
 - China 3+1 Exchange Program (Mathematics)- University of Waterloo- Ontario, Canada (Sep 2019-May 2020)
 - David R. Cheriton School of Computer Science- University of Waterloo- Ontario, Canada	(Fall 2020-Feb 2022)
   - Master of Mathematics (dropout)
-- DSA Thrust, Information Hub, HKUST(GZ) (Fall 2024-present)
+- DSA Thrust, Information Hub, HKUST(GZ)- Guangzhou, China (Fall 2024-present)
   - Ph.D. in Data Science and Analytics
 
 ## Research Experience		                                                                                                                                                         

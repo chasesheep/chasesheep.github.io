@@ -37,4 +37,4 @@
 Hu, Zhuangfei, Xinda Li, David P. Woodruff, Hongyang Zhang, and Shufan Zhang. "Recovery from non-decomposable distance oracles." IEEE Transactions on Information Theory (2023).
 
 ## CV
-[A PDF version of my Personal CV](Zhuangfei_Hu_resume.pdf)
+[A PDF version of my Personal CV(outdated, to be updated)](Zhuangfei_Hu_resume.pdf)
